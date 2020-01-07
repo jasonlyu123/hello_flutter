@@ -1,0 +1,1 @@
+enum MyThemes { light, dark }
